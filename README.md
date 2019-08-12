@@ -1,2 +1,2 @@
 # Education_data
-Harmonization of data on educational data as well as cognitive and non cognitive skills. 
+Harmonization of educational data as well as cognitive and non cognitive skills. Based on surveys conducted in Bolivia. 
